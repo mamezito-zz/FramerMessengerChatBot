@@ -239,7 +239,7 @@ class Message
 				message.width=message._element.children[0].offsetWidth+80
 				message._element.style.width = null
 			message.style=messageClass
-			message.height=message._element.children[0].offsetHeight+30
+			message.height=message._element.children[0].offsetHeight+40
 			if opts.choices
 				message.height+=30
 				if message.width<cardWidth
