@@ -1,9 +1,9 @@
-# Add the following line to your project in Framer Studio.
-# myModule = require "myModule"
-# Reference the contents by name, like myModule.myFunction() or myModule.myVar
+# Author - Sergiy Voronov
+# twitter.com/mamezito
 
 
 ios = require "ios-kit"
+# module requires ioskit from Kevyn Arnott https://github.com/k-vyn/framer-ios-kit
 
 botName=""
 botImage=""
