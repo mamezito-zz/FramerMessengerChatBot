@@ -56,6 +56,8 @@ msg=new chatBot.Message
 	cards:[{cover:"image",image:"images/sandwiches/mcdonalds-Big-Tasty.png",title:"Big tasty",text:"Take a big bite into 100% beef, with cheese slices made from delicious Emmental, slices of tomato, lettuce, onion and Big Tasty sauce.",choices:[["Select","sandwichselected"]]},{cover:"image",image:"images/sandwiches/mcdonalds-Cheeseburger.png",title:"Cheeseburger",text:"The simple classic made with a 100% beef patty, cheese, onions, pickles, mustard and a dollop of Tomato Ketchup - all in a soft bun.",choices:[["Select","sandwichselected"]]},{cover:"image",image:"images/sandwiches/mcdonalds-Hamburger.png",title:"Hamburger",text:"A quarter pound, 100% beef patty with two slices of cheese, onions, pickles, mustard and a dollop of Tomato Ketchup.",choices:[["Select","sandwichselected"]]},{cover:"image",image:"images/sandwiches/mcdonalds-Big-Mac.png",title:"Big Mac",text:"Two 100% beef patties with lettuce, onions, pickles, cheese and our unbeatable Big Mac sauce - all in a sesame seed bun.",choices:[["Select","sandwichselected"]]},{cover:"image",image:"images/sandwiches/mcdonalds-The-BBQ.png",title:"The BBQ",text:"100% British and Irish Beef, BBQ sauce, coleslaw, red onion, lettuce, Beechwood smoked bacon and cheddar cheese",choices:[["Select","sandwichselected"]]}]
 ```
 
+![](https://github.com/mamezito/FramerMessengerChatBot/blob/master/screen1.png)
+![](https://github.com/mamezito/FramerMessengerChatBot/blob/master/screen2.png)
 
 You need to use 2 functions to create logic
 1. Function that tracks user input from textfield on bottom
