@@ -43,7 +43,7 @@ exports.createMessenger =(botName,image,likes,botCategory,user) ->
 		title:botName
 		blur:false
 
-	customTabBar=new Layer
+	window["customTabBar"]=new Layer
 		width:Screen.width
 		height:60
 		backgroundColor: "white"
@@ -387,7 +387,8 @@ class Message
 			userPic.x-=70
 			userPic.y=Align.bottom
 			userPic.sendToBack()
-		messages.push(message)
+		if opts.type!="bubbles"
+			messages.push(message)
 		for msg,i in messages
 			if messages[i+1]
 				if msg.children[0] and messages[i+1].children[0]
