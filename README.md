@@ -58,6 +58,7 @@ msg=new chatBot.Message
 
 ![](https://github.com/mamezito/FramerMessengerChatBot/blob/master/screen1.png)
 ![](https://github.com/mamezito/FramerMessengerChatBot/blob/master/screen2.png)
+![](https://github.com/mamezito/FramerMessengerChatBot/blob/master/bubbles.png)
 
 You need to use 2 functions to create logic
 1. Function that tracks user input from textfield on bottom
