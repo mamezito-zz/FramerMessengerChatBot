@@ -104,3 +104,8 @@ live sample http://share.framerjs.com/umpe2e9jmci2/
 
 mock of all types of messages without a logic 
 http://share.framerjs.com/2cv5s75m3uwm/
+
+
+
+You can use api.ai module with messenger bot module now - https://github.com/mamezito/Api.ai_module_FramerJS
+live sample - https://framer.cloud/DlOZG
